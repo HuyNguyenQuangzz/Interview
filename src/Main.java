@@ -19,7 +19,7 @@ public class Main {
 
             System.out.println("Danh sách sau khi xóa các node có giá trị " + valueToDelete + ":");
             linkedList.print();
-                // INTERVIEW 1
+                // here are INTERVIEW 1
         }
 
 }
